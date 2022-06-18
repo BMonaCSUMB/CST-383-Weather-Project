@@ -1,9 +1,13 @@
 CST 383 Weather Project
 
 Team Members -
+
 Arlon Arriola larriola@csumb.edu
+
 Benjamin Mona bmona@csumb.edu 
+
 Rahul Khurana rkhurana@csumb.edu 
+
 Cristian Serrano crserrano@csumb.edu 
 
 Introduction - 
